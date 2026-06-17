@@ -1,0 +1,11 @@
+[0;33m--- Warning: GDB cannot open serial ports accessed as COMx[0m
+[0;33m--- Using \\.\COM4 instead...[0m
+[0;33m--- esp-idf-monitor 1.9.0 on \\.\COM4 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0m--- 0x40080400: [0;33m_init[0m[0m at [0;32m??[0m[0m:[1;31m?[0m
+[0m--- 0x400d9a6a: [0;33mtask_wdt_timeout_handling[0m[0m at [0;32mD:/ESP32_IDF/Environment/Espressif/frameworks/esp-idf-v5.4.4/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m434[0m
+[0m--- 0x400d9e2c: [0;33mtask_wdt_isr[0m[0m at [0;32mD:/ESP32_IDF/Environment/Espressif/frameworks/esp-idf-v5.4.4/components/esp_system/task_wdt/task_wdt.c[0m[0m:[1;31m507[0m
+[0m--- 0x40083231: [0;33m_xt_lowint1[0m[0m at [0;32mD:/ESP32_IDF/Environment/Espressif/frameworks/esp-idf-v5.4.4/components/xtensa/xtensa_vectors.S[0m[0m:[1;31m1240[0m
+[0m--- 0x400d75aa: [0;33mtask_consumer[0m[0m at [0;32mD:/Code/ECG_PCG_ver2/main/main.c[0m[0m:[1;31m37[0m
+[0m--- 0x40086e59: [0;33mvPortTaskWrapper[0m[0m at [0;32mD:/ESP32_IDF/Environment/Espressif/frameworks/esp-idf-v5.4.4/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c[0m[0m:[1;31m139[0m
+[0m

@@ -1,0 +1,2 @@
+source D:/Code/ECG_PCG_ver2/build/bootloader/gdbinit/symbols
+source D:/Code/ECG_PCG_ver2/build/bootloader/gdbinit/connect
